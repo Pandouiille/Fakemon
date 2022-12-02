@@ -1,0 +1,8 @@
+﻿  game.cpp
+C:\Users\Suric\source\repos\PokeDoom\JeuFakemon\enemy.h(10,1): warning C4005: 'RAND_MAX' : redéfinition de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h(348,1): message : voir la définition précédente de 'RAND_MAX'
+C:\Users\Suric\source\repos\PokeDoom\JeuFakemon\game.cpp(109,43): warning C4267: 'argument' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\Suric\source\repos\PokeDoom\JeuFakemon\game.cpp(266,47): warning C4267: 'argument' : conversion de 'size_t' en 'unsigned int', perte possible de données
+C:\Users\Suric\source\repos\PokeDoom\JeuFakemon\game.cpp(172): warning C4715: 'game::loop_events' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Suric\source\repos\PokeDoom\JeuFakemon\game.cpp(194): warning C4715: 'game::run_menu' : les chemins de contrôle ne retournent pas tous une valeur
+  JeuFakemon.vcxproj -> C:\Users\Suric\source\repos\PokeDoom\x64\Debug\JeuFakemon.exe
